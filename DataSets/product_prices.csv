@@ -1,0 +1,36 @@
+Product_ID,Product_Name,Category,Price
+0,Smartphone (Redmi Note 13),Smartphone,15999
+1,Smartphone (Samsung Galaxy M34),Smartphone,18499
+2,Smartphone (Realme Narzo 60),Smartphone,14999
+3,Smartphone (OnePlus Nord CE 3),Smartphone,24999
+4,Smartphone (iPhone 15),Smartphone,72999
+5,Smartphone (Vivo V29),Smartphone,850000
+6,Laptop (Lenovo IdeaPad 3),Laptop,42990
+7,Laptop (HP Pavilion 15),Laptop,58990
+8,Laptop (Dell Inspiron 3520),Laptop,48490
+9,Laptop (Asus Vivobook 16),Laptop,52990
+10,Laptop (Acer Aspire 5),Laptop,45990
+11,Tablet (Samsung Galaxy Tab A9),Tablet,12999
+12,Tablet (Apple iPad 10th Gen),Tablet,36900
+13,Tablet (Lenovo Tab M11),Tablet,14999
+14,Smartwatch (Noise ColorFit Pulse),Smartwatch,1799
+15,Smartwatch (boAt Wave Call),Smartwatch,1499
+16,Smartwatch (Fire-Boltt Ninja),Smartwatch,1299
+17,Smartwatch (Fastrack Limitless),Smartwatch,1999
+18,Headphones (boAt Rockerz 450),Headphones,999000
+19,Headphones (Sony WH-CH520),Headphones,4490
+20,Headphones (JBL Tune 510BT),Headphones,2999
+21,Bluetooth Speaker (boAt Stone 350),Speaker,1499
+22,Bluetooth Speaker (JBL Go 3),Speaker,2999
+23,Wireless Mouse (Logitech B170),Accessories,599
+24,Wireless Mouse (HP 250),Accessories,499
+25,Keyboard (Logitech K380),Accessories,-5000
+26,Mechanical Keyboard (Redragon K552),Accessories,2999
+27,Power Bank (Mi 20000mAh),Accessories,1999
+28,Power Bank (Ambrane 10000mAh),Accessories,999
+29,Monitor (LG 24-inch FHD),Monitor,8999
+30,Monitor (Samsung 27-inch Curved),Monitor,12499
+31,Smart TV (Mi 43-inch 4K),Smart TV,24999
+32,Smart TV (Samsung 32-inch HD),Smart TV,14490
+33,Smart TV (LG 55-inch 4K UHD),Smart TV,45990
+34,Smart TV (Sony Bravia 55-inch 4K),Smart TV,61990

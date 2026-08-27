@@ -1,0 +1,11 @@
+Product,Quantity,Price,Total Price,Category
+Laptop,2,55000,110000,Computing
+Mouse,5,500,2500,Accessories
+Keyboard,3,1200,3600,Accessories
+Monitor,4,9000,36000,Display
+Headphones,6,2000,12000,Audio
+Laptop,1,55000,55000,Computing
+Mouse,8,500,4000,Accessories
+Keyboard,2,1200,2400,Accessories
+Monitor,3,9000,27000,Display
+Headphones,5,2000,10000,Audio

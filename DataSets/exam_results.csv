@@ -1,0 +1,36 @@
+Student_ID,Student_Name,Subject,Internal_Score,Grade
+MCA_101,Amit Chame,Data Science,55.0,B
+MCA_102,Priya Sharma,Machine Learning,69.0,B
+MCA_103,Rahul Patil,Python Programming,57.0,B
+MCA_104,Sneha Deshmukh,Database Systems,64.0,B
+MCA_105,Aniket Joshi,Cloud Computing,,B
+MCA_106,Pooja Kulkarni,Data Science,63.0,B
+MCA_107,Rohan Shinde,Machine Learning,64.0,B
+MCA_108,Tanvi More,Python Programming,70.0,B+
+MCA_109,Aditya Kadam,Database Systems,62.0,B
+MCA_110,Neha Pawar,Cloud Computing,59.0,B
+MCA_111,Saurabh Gaikwad,,93.0,A+
+MCA_112,Divya Sawant,Machine Learning,73.0,B+
+MCA_113,Akash Mane,Python Programming,58.0,B
+MCA_114,Shruti Jagtap,Database Systems,87.0,A
+MCA_115,Nikhil Bhosale,Cloud Computing,55.0,B
+MCA_116,Anjali Chavan,Data Science,71.0,B+
+MCA_117,Karan Verma,Machine Learning,93.0,A+
+MCA_118,Meera Nair,Python Programming,62.0,B
+MCA_119,Deepak Yadav,Database Systems,80.0,
+MCA_120,Kavita Rathi,Cloud Computing,83.0,A
+MCA_121,Vikram Solanki,Data Science,82.0,A
+MCA_122,Ritu Gupta,Machine Learning,62.0,B
+MCA_123,Siddharth Rao,Python Programming,85.0,A
+MCA_124,Shreya Mehta,Database Systems,59.0,B
+MCA_125,Omkar Jadhav,Cloud Computing,,A
+MCA_126,Pallavi Thorat,Data Science,90.0,A+
+MCA_127,Sachin Kale,Machine Learning,57.0,B
+MCA_128,Monika Shinde,Python Programming,93.0,A+
+MCA_129,Abhishek Gore,Database Systems,66.0,B
+MCA_130,Sayali Salunkhe,Cloud Computing,60.0,B
+MCA_131,Gaurav Wagh,,95.0,A+
+MCA_132,Aarti Tambe,Machine Learning,94.0,A+
+MCA_133,Tejas Auti,Python Programming,62.0,B
+MCA_134,Rupali Ghadge,Database Systems,67.0,B
+MCA_135,Mayur Dhumal,Cloud Computing,97.0,A+

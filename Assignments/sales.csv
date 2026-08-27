@@ -1,0 +1,36 @@
+Transaction_ID,Customer_Name,Date,Item_Name,Quantity,Unit_Price,TotalPurchase
+TXN_1001,Amit Chame,2026-01-05,Laptop,1,45000,45000
+TXN_1002,Priya Sharma,2026-01-09,Mouse,3,600,1800
+TXN_1003,Rahul Patil,2026-01-13,Keyboard,2,1500,3000
+TXN_1004,Sneha Deshmukh,2026-01-17,Tablet,1,18000,18000
+TXN_1005,Aniket Joshi,2026-01-21,Headphones,2,2500,5000
+TXN_1006,Pooja Kulkarni,2026-01-25,Smartphone,1,22000,22000
+TXN_1007,Rohan Shinde,2026-01-29,Smart TV,1,32000,32000
+TXN_1008,Tanvi More,2026-02-02,USB Cable,4,300,1200
+TXN_1009,Aditya Kadam,2026-02-06,Monitor,2,9500,19000
+TXN_1010,Neha Pawar,2026-02-10,Power Bank,2,1800,3600
+TXN_1011,Saurabh Gaikwad,2026-02-14,Laptop,1,45000,45000
+TXN_1012,Divya Sawant,2026-02-18,Mouse,4,600,2400
+TXN_1013,Akash Mane,2026-02-22,Keyboard,1,1500,1500
+TXN_1014,Shruti Jagtap,2026-02-26,Tablet,1,18000,18000
+TXN_1015,Nikhil Bhosale,2026-03-02,Headphones,2,2500,5000
+TXN_1016,Anjali Chavan,2026-03-06,Smartphone,1,22000,22000
+TXN_1017,Karan Verma,2026-03-10,Smart TV,1,32000,32000
+TXN_1018,Meera Nair,2026-03-14,USB Cable,5,300,1500
+TXN_1019,Deepak Yadav,2026-03-18,Monitor,2,9500,19000
+TXN_1020,Kavita Rathi,2026-03-22,Power Bank,3,1800,5400
+TXN_1021,Vikram Solanki,2026-03-26,Laptop,1,45000,45000
+TXN_1022,Ritu Gupta,2026-03-30,Mouse,2,600,1200
+TXN_1023,Siddharth Rao,2026-04-03,Keyboard,1,1500,1500
+TXN_1024,Shreya Mehta,2026-04-07,Tablet,1,18000,18000
+TXN_1025,Omkar Jadhav,2026-04-11,Headphones,3,2500,7500
+TXN_1026,Pallavi Thorat,2026-04-15,Smartphone,1,22000,22000
+TXN_1027,Sachin Kale,2026-04-19,Smart TV,1,32000,32000
+TXN_1028,Monika Shinde,2026-04-23,USB Cable,4,300,1200
+TXN_1029,Abhishek Gore,2026-04-27,Monitor,1,9500,9500
+TXN_1030,Sayali Salunkhe,2026-05-01,Power Bank,2,1800,3600
+TXN_1031,Gaurav Wagh,2026-05-05,Laptop,1,45000,45000
+TXN_1032,Aarti Tambe,2026-05-09,Mouse,2,600,1200
+TXN_1033,Tejas Auti,2026-05-13,Keyboard,1,1500,1500
+TXN_1034,Rupali Ghadge,2026-05-17,Tablet,1,18000,18000
+TXN_1035,Mayur Dhumal,2026-05-21,Headphones,2,2500,5000

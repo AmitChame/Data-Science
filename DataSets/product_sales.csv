@@ -1,0 +1,36 @@
+Order_ID,Product_Name,Category,Unit_Price,Quantity,Total_Sales,Region
+ORD_8001,Smartphone,Electronics,18000,4,72000,North
+ORD_8002,Laptop,Electronics,52000,5,260000,South
+ORD_8003,Smart TV,Electronics,28000,3,84000,East
+ORD_8004,Headphones,Accessories,2500,5,12500,West
+ORD_8005,Smartwatch,Accessories,3500,5,17500,North
+ORD_8006,Wireless Mouse,Accessories,800,2,1600,South
+ORD_8007,Kurta Set,Clothing,1800,3,5400,East
+ORD_8008,Denim Jeans,Clothing,2200,3,6600,West
+ORD_8009,Cotton Shirt,Clothing,1200,3,3600,North
+ORD_8010,Running Shoes,Footwear,2800,5,14000,South
+ORD_8011,Formal Shoes,Footwear,3200,4,12800,East
+ORD_8012,Casual Sneakers,Footwear,2400,3,7200,West
+ORD_8013,Air Fryer,Home Appliances,5500,5,27500,North
+ORD_8014,Microwave Oven,Home Appliances,7800,2,15600,South
+ORD_8015,Mixer Grinder,Home Appliances,3200,4,12800,East
+ORD_8016,Smartphone,Electronics,18000,2,36000,West
+ORD_8017,Laptop,Electronics,52000,4,208000,North
+ORD_8018,Smart TV,Electronics,28000,5,140000,South
+ORD_8019,Headphones,Accessories,2500,1,2500,East
+ORD_8020,Smartwatch,Accessories,3500,4,14000,West
+ORD_8021,Wireless Mouse,Accessories,800,2,1600,North
+ORD_8022,Kurta Set,Clothing,1800,5,9000,South
+ORD_8023,Denim Jeans,Clothing,2200,4,8800,East
+ORD_8024,Cotton Shirt,Clothing,1200,1,1200,West
+ORD_8025,Running Shoes,Footwear,2800,1,2800,North
+ORD_8026,Formal Shoes,Footwear,3200,3,9600,South
+ORD_8027,Casual Sneakers,Footwear,2400,3,7200,East
+ORD_8028,Air Fryer,Home Appliances,5500,2,11000,West
+ORD_8029,Microwave Oven,Home Appliances,7800,4,31200,North
+ORD_8030,Mixer Grinder,Home Appliances,3200,4,12800,South
+ORD_8031,Smartphone,Electronics,18000,3,54000,East
+ORD_8032,Laptop,Electronics,52000,4,208000,West
+ORD_8033,Smart TV,Electronics,28000,4,112000,North
+ORD_8034,Headphones,Accessories,2500,1,2500,South
+ORD_8035,Smartwatch,Accessories,3500,3,10500,East
