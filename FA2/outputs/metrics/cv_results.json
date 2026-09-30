@@ -1,0 +1,62 @@
+{
+    "Logistic Regression": {
+        "cv_mean_accuracy": 0.8264,
+        "cv_std_accuracy": 0.0172,
+        "cv_scores": [
+            0.8571,
+            0.8163,
+            0.8125,
+            0.8125,
+            0.8333
+        ],
+        "training_time_seconds": 0.1647
+    },
+    "Decision Tree": {
+        "cv_mean_accuracy": 0.7395,
+        "cv_std_accuracy": 0.0398,
+        "cv_scores": [
+            0.7755,
+            0.7551,
+            0.6667,
+            0.7292,
+            0.7708
+        ],
+        "training_time_seconds": 0.0494
+    },
+    "Random Forest": {
+        "cv_mean_accuracy": 0.7974,
+        "cv_std_accuracy": 0.0248,
+        "cv_scores": [
+            0.7959,
+            0.8163,
+            0.8125,
+            0.8125,
+            0.75
+        ],
+        "training_time_seconds": 1.9612
+    },
+    "Support Vector Machine": {
+        "cv_mean_accuracy": 0.8223,
+        "cv_std_accuracy": 0.0249,
+        "cv_scores": [
+            0.8571,
+            0.7959,
+            0.7917,
+            0.8333,
+            0.8333
+        ],
+        "training_time_seconds": 0.1585
+    },
+    "k-Nearest Neighbors": {
+        "cv_mean_accuracy": 0.8181,
+        "cv_std_accuracy": 0.0307,
+        "cv_scores": [
+            0.8571,
+            0.7959,
+            0.8333,
+            0.7708,
+            0.8333
+        ],
+        "training_time_seconds": 0.1013
+    }
+}

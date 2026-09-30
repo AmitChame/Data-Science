@@ -1,0 +1,38 @@
+{
+    "algorithm": "Random Forest",
+    "parameters_tested": {
+        "n_estimators": [
+            50,
+            100,
+            150
+        ],
+        "max_depth": [
+            3,
+            5,
+            8
+        ],
+        "min_samples_split": [
+            2,
+            5,
+            10
+        ],
+        "min_samples_leaf": [
+            1,
+            2,
+            4
+        ],
+        "criterion": [
+            "gini",
+            "entropy"
+        ]
+    },
+    "best_parameters": {
+        "criterion": "entropy",
+        "max_depth": 3,
+        "min_samples_leaf": 2,
+        "min_samples_split": 10,
+        "n_estimators": 50
+    },
+    "best_cv_score": 0.8264,
+    "tuning_time_seconds": 45.21
+}
