@@ -120,13 +120,6 @@ st.sidebar.markdown(
     "**Teacher:** Prof. Prakash Ukhalkar"
 )
 
-# Prominent Academic Medical Disclaimer
-st.warning(
-    "⚠️ **Academic Demonstration Only:** "
-    "This application is an educational machine-learning prototype based on the UCI Cleveland Heart Disease dataset. "
-    "Predictions are not medical diagnoses and must not be used for clinical decision-making."
-)
-
 # ==============================================================================
 # TAB 1: CLINICAL RISK ASSESSMENT
 # ==============================================================================
@@ -266,6 +259,11 @@ if app_mode == "🩺 Clinical Risk Assessment":
                     "ROC-AUC": m_info["auc"]
                 })
             st.table(pd.DataFrame(consensus_data))
+
+        st.caption(
+            "Academic demonstration using the UCI Cleveland Heart Disease dataset. "
+            "Predictions are for educational purposes only."
+        )
 
 # ==============================================================================
 # TAB 2: MODEL BENCHMARKING & METRICS
